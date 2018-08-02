@@ -1,0 +1,11 @@
+{
+  "name": "jsys-hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mikihiro SUDA <s1711373@s.tsukuba.ac.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
